@@ -1,4 +1,4 @@
-# get_started_with_frontend_webdev
+# GET STARTED WITH FRONT-END DEVELOPMENT
 This is an exercise to learn Node, NPM, Angular 2+
 
 <a href="https://github.com/chaurasia-namrata/get_started_with_frontend_webdev/issues">
