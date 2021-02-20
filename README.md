@@ -4,8 +4,8 @@ This is an exercise to learn Node, NPM, Angular 2+
 <a href="https://github.com/chaurasia-namrata/get_started_with_frontend_webdev/issues">
         <img alt="GitHub issues" src="https://img.shields.io/github/issues/chaurasia-namrata/get_started_with_frontend_webdev"></a>
 
-<a href="https://img.shields.io/badge/node-14.15.5-orange">
-        <img alt="GitHub issues" src="https://img.shields.io/badge/node-14.15.5-orange"></a>
+<a href="https://img.shields.io/static/v1?label=node&message=14.15.5&color=orange">
+        <img alt="GitHub issues" src="https://img.shields.io/static/v1?label=node&message=14.15.5&color=orange"></a>
 
 
 <a href="https://img.shields.io/badge/node-14.15.5-orange"></a>
