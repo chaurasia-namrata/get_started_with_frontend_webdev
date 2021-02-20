@@ -3,8 +3,7 @@ This is an exercise to learn Node, NPM, Angular 2+
 
 Important Links:
 
-● https://angular.io/
-
+● https://angular.io/ \n
 ● https://material.angular.io/
 
 ● https://git-scm.com/
