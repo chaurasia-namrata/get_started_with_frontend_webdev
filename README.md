@@ -6,11 +6,8 @@ This is an exercise to learn Node, NPM, Angular 2+
 
 <a href="https://img.shields.io/static/v1?label=node&message=14.15.5&color=orange">
         <img alt="GitHub issues" src="https://img.shields.io/static/v1?label=node&message=14.15.5&color=orange"></a>
-
-<a href="https://img.shields.io/static/v1?label=&message=14.15.5&color=orange">
-        <img alt="GitHub issues" src="https://img.shields.io/static/v1?label=node&message=14.15.5&color=orange"></a>
         
-<b><u>Important Links:</u></b><br>
+<b><u>Important Links:</u></b><br><br>
 ● https://angular.io/<br>
 ● https://material.angular.io/<br>
 ● https://git-scm.com/<br>
@@ -18,6 +15,4 @@ This is an exercise to learn Node, NPM, Angular 2+
 ● https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/<br>
 ● https://sass-lang.com/<br>
 
-# Steps:
 
-1. 
